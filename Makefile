@@ -11,6 +11,6 @@ format:
 	
 lint:
 	#hadolint Dockerfile #uncomment to explore linting Dockerfiles
-	pylint --disable=R,C hello.py
+	pylint --disable=R,C missingArrayNumber.py
 
 all: install lint test
