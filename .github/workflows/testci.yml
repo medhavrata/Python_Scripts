@@ -25,6 +25,6 @@ jobs:
       - name: Test with pytest
         run: |
           make test
-      - name: Format with black
-        run: |
-          make format
+      # - name: Format with black
+      #   run: |
+      #     make format
