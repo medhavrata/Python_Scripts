@@ -1,3 +1,6 @@
+[![Test Multiple Python Versions](https://github.com/medhavrata/Python_Scripts/actions/workflows/testci.yml/badge.svg)](https://github.com/medhavrata/Python_Scripts/actions/workflows/testci.yml)
+
+
 # Python_Scripts
 This Repo is to store the Python Scripts and some python projects.
 
